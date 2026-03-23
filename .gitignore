@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Remotion build output
+marketing/out/
+marketing/node_modules/
+
+# Environment & secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json
