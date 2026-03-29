@@ -1,6 +1,6 @@
 # sparX
 
-Turn [Claude Code](https://claude.ai/code) into the ultimate X (Twitter) content engine. Every skill is grounded in how the Phoenix algorithm actually scores posts — not guesswork, but the documented signal weights from X's open-source ranking system.
+Turn [Claude Code](https://claude.ai/code) into the ultimate X content engine. Every skill is grounded in how the Phoenix algorithm actually scores posts — not guesswork, but the documented signal weights from X's open-source ranking system.
 
 sparX is a collection of Claude Code [skills](https://code.claude.com/docs/en/skills), [agents](https://code.claude.com/docs/en/sub-agents), and deep reference material that transforms your terminal into a full X content studio: drafting, optimizing, scoring, scheduling, trend research, performance review, and visual content creation.
 
